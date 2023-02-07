@@ -4,9 +4,9 @@
 	<img
 		src="https://komarev.com/ghpvc/?username=joaogracindo&label=Profile%20views&color=0e75b6&style=flat"
 		alt="joaogracindo" /><br/>
-  - 🌱 I’m currently learning <strong>NodeJs</strong><br/>
+  - 🌱 I’m currently learning <strong>Postgres</strong><br/>
   - 👨‍💻 All of my projects are available at [https://github.com/JoaoGracindo?tab=repositories](https://github.com/JoaoGracindo?tab=repositories)<br/>
-  - 💬 Ask me about <strong>React , MongoDB</strong> <br/>
+  - 💬 Ask me about <strong>React , MongoDB, NodeJS, Linux</strong> <br/>
   - 📫 How to reach me <strong>gabrielpessoa97@gmail.com</strong><br/>
 </p>
 

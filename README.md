@@ -7,6 +7,8 @@
   
 </p>
 
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
    <a
@@ -134,3 +136,8 @@ height="40" />
    alt="joaogracindo"
    height="200px"/>
 </p>
+<br/>
+<p align="left">
+  - 📫 How to reach me: <strong>joaoggracindo@gmail.com</strong><br/> 
+</p>
+ 

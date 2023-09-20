@@ -1,38 +1,12 @@
-<h1 align="center">Hi 👋, I'm João Gabriel Gracindo</h1>
-<h3 align="center">A full-stack developer from Rio de Janeiro, Brazil</h3>
+<h1 align="center">Hi, nice to see you here!</h1>
+<h3 align="center">My name is João Gracindo. (John for non-portuguese speakers)<br/> I am just a full-stack developer from Rio de Janeiro, Brazil</h3>
 <p align="left">
 	<img
 		src="https://komarev.com/ghpvc/?username=joaogracindo&label=Profile%20views&color=0e75b6&style=flat"
 		alt="joaogracindo" /><br/>
-  - 🌱 I’m currently learning <strong>Postgres</strong><br/>
-  - 👨‍💻 All of my projects are available at [https://github.com/JoaoGracindo?tab=repositories](https://github.com/JoaoGracindo?tab=repositories)<br/>
-  - 💬 Ask me about <strong>React , MongoDB, NodeJS, Linux</strong> <br/>
-  - 📫 How to reach me <strong>gabrielpessoa97@gmail.com</strong><br/>
+  
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-	<a
-		href="https://www.hackerrank.com/gabrielpessoa97"
-		target="blank"
-		><img
-			align="center"
-			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-			alt="gabrielpessoa97"
-			height="30"
-			width="40"
-	/></a>
-	<a
-		href="https://www.leetcode.com/gabrielpessoa97"
-		target="blank"
-		><img
-			align="center"
-			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-			alt="gabrielpessoa97"
-			height="30"
-			width="40"
-	/></a>
-</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
    <a
@@ -150,12 +124,13 @@ height="40" />
    <img
    align="left"
    src="https://github-readme-stats.vercel.app/api/top-langs?username=joaogracindo&show_icons=true&locale=en&layout=compact"
-   alt="joaogracindo" />
+   alt="joaogracindo"
+   height="200px"/>
 </p>
 <p>
    &nbsp;<img
    align="center"
-		src="https://github-readme-stats.vercel.app/api?username=joaogracindo&show_icons=true&locale=en"
-		alt="joaogracindo" />
-   </p>
-   
+   src="https://github-readme-stats.vercel.app/api?username=joaogracindo&show_icons=true&locale=en"
+   alt="joaogracindo"
+   height="200px"/>
+</p>

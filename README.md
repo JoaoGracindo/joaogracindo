@@ -6,7 +6,19 @@
 		alt="joaogracindo" /><br/>
   
 </p>
+<h4 align="left">About: <br/></h4>
 
+<p align="left">
+	- i love to solve problems and make life easier by coding. Thats what my last project (job-scraper) was about. I automated my job search with javascript using puppeteer.
+</p>
+
+<h4 align="left">My two next projects will be: <br/></h4>
+
+<p align="left">
+	-  Password manager (TypeScript) <br/>
+	-  Chess game (Java)
+</p>
+<br/>
 
 
 <h3 align="left">Languages and Tools:</h3>

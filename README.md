@@ -9,7 +9,7 @@
 <h4 align="left">About: <br/></h4>
 
 <p align="left">
-	- i love to solve problems and make life easier by coding. Thats what my last project (job-scraper) was about. I automated my job search with javascript using puppeteer.
+	- i love to solve problems and make life easier by coding. Thats what my last project (job-scraper) was about. I automated my job search with javascript using puppeteer.<br/>
 	- I recently did a java Rest API and made the deploy on AWS using docker-compose. Check it out: http://18.118.1.191:8080/tweets/bobesponja
 </p>
 

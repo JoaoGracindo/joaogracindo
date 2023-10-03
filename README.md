@@ -14,7 +14,7 @@
 	- I'm current working on a full-stack Java & Angular project: <a href="https://github.com/JoaoGracindo/linkr2">Linkr</a> <br/>
 </p>
 
-<h4 align="left">My two next project will be: <br/></h4>
+<h4 align="left">My next project will be: <br/></h4>
 
 <p align="left">
 	-  Password manager (TypeScript) <br/>

@@ -10,14 +10,14 @@
 
 <p align="left">
 	- i love to solve problems and make life easier by coding. Thats what my last project (job-scraper) was about. I automated my job search with javascript using puppeteer.<br/>
-	- I recently did a java Rest API and made the deploy on AWS using docker-compose. Check it out: http://18.118.1.191:8080/tweets/bobesponja
+	- I recently did a java Rest API and made the deploy on AWS using docker-compose.<br/>
+	- I'm current working on a full-stack Java & Angular project: <a href="https://github.com/JoaoGracindo/linkr2">Linkr</a> <br/>
 </p>
 
-<h4 align="left">My two next projects will be: <br/></h4>
+<h4 align="left">My two next project will be: <br/></h4>
 
 <p align="left">
 	-  Password manager (TypeScript) <br/>
-	-  Chess game (Java)
 </p>
 <br/>
 
